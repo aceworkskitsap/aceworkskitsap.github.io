@@ -33,7 +33,7 @@ params:
   profile_image: "/images/profile.png"
   name: "Ace Works"
   namecolor: ffc107
-  profession: "Handyman"
+  profession: "Proudly serving Kitsap County, WA with 30+ Years of Experience"
   facebook: "https://facebook.com"
 
   # About
@@ -45,7 +45,7 @@ Mon - Sat<br>
 Sunday<br>
     Appointment Only<br>"
   skills:
-    - name: Plumbing, Water Heater Installation & Repair, Carpenty, Plaster & Drywall
+    - name: Plumbing,<br> Water Heater Installation & Repair,<br> Carpenty,<br> Plaster & Drywall
       percentage: 100
 
   # Experience
@@ -73,33 +73,40 @@ Sunday<br>
   # Projects
   disable_projects: false
   projects:
-    - name: "Example project without details"
+    - name: "Bathroom Remodels"
       img: /images/project.jpg
-      githublink: "https://github.com/"
-      featuredlink: "/"
-      description: "Description of project"
+      description: "Let us transform your bathroom into your personal oasis!  Ace Works has spent 30 years offering our expertise in custom bathroom design to Bremerton, Washington and surrounding communities.  During this time, we have garnered a strong reputation for quality planning and execution, using advanced applications and state of the art design techniques to arrive at a masterful finished project.  Our team of specialists are competent in their adherence to the most distinct of design specifications to craft your bathroom suite."
+    - name: "Plumbing"
+      img: /images/project.jpg
+      description: "It’s 2021 and dealing with a slow or clogged drain is optional.  Over time, most drains will naturally become less conducive to water flow and will become clogged.  Most of these clogs are quickly fixable.  At Ace Works, we specialize in drain cleaning and repair.  From main sewer drains, to kitchen sinks, to bathtubs, to toilets, we do it all.  Attempting to remove clogs on your own can potentially damage your pipes and fixtures; call us today for assistance, we will have your drain unclogged in no time."
+    - name: "Tankless Water Heater"
+      img: /images/project.jpg
+      description: "Here at Ace Works we offer expert water heater services in Bremerton, WA with a specialization in tankless water heaters. With over 30 years of experience, our team provides high quality installation and repair at competitive prices to customers in Bremerton, Washington and surrounding communities. We work diligently to meet our customer’s needs while adhering to industry standards in quality and safety.  Experts recommend servicing your water heater twice a year; give us a call today to schedule your initial consultation with our knowledgeable team and we will take care of the rest."
+    - name: "Gas Services"
+      img: /images/project.jpg
+      description: "Ace Works is the name to trust when it comes to all of your gas needs; from gas line installation and repair to inspection and routine maintenance, we pride ourselves on our decades of expertise; with over 30 years of experience providing gas services, we have earned a strong reputation for quality workmanship.  When we enter your property, we enact strict measures to protect and preserve the surroundings while completing our work and we have clean-up protocols in place to leave your home in tip-top shape.  Contact us today for an expert consultation!"
 
   # Achievements
   disable_achievements: true
   achievements:
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: Margaret N.
+      description: I contracted with Tom from Ace Works to remodel my bathroom, remove some doors and add a bedroom with a walk in closet in my daylight basement apartment. I am extremely pleased with the results. He included me in all the decision for the remodel. He was here every single day that he promised to be here, and if you've ever worked with a contractor, you know that almost unheard of. Tom is reliable, honest, easy to work with and doesn't take any shortcuts. I was happy to write the final check when he finished I was so pleased with his work.
       img: /images/achiv.jpg
       url: https://example.com
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: Erliinda E.
+      description: I called Tom on Tuesday evening, and he was able to come out Wednesday morning! I am the happiest customer right now!!! I have been without a working shower since February 13th, and the plumbing company 2 sons plumbing have yet to come back and fix anything! It took Tom just 2 hours to fix things that to this day 2/27/20 2 sons was unable to fix! Tom is the friendliest, and most professional plumber I've ever come across! This guy definitely is the best at what he does!!! Very fair pricing! I would've gladly paid him more for coming to fix everything in such a short notice! I highly recommend Ace Works, and will be a loyal customer as long as I'm living in this state!!! Thank you so much Tom!!!
       img: /images/achiv.jpg
       # url: https://example.com
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: Marcy C.
+      description: We are feeling so fortunate to have found Tom! We needed someone to do a bathroom remodel and he answered our call. Thorough, efficient and hardworking, he worked with us and did everything as promised and didn't break the bank! We will definitely be contacting him again as other needs crop up! Thank you Tom for your excellent work!
       img: /images/achiv.jpg
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: Amee G.
+      description: I have to give a big thank you to Tom! I have always been skeptical of contractors. Tom worked with me to put a hot water heater in my home. He was fantastic. I quickly learned that he truly cared about my concerns and answered all my questions and did not over charge me.<br>Now faced a with large home project, I did not hesitate to contact Tom! I am completely at ease that Tom has everything under control and that he will communicate with me through out the project. Thanks Tom for being a professional, honest and great contractor!!!!
       img: /images/achiv.jpg
 
   # Contact
   disable_contact: false
-  contact_content: Email or call today to get a quote!<br>360-932-2117
+  contact_content: Email or call today to get a quote!
   email: "plumbingman008@gmail.com"
 
   # Footer
