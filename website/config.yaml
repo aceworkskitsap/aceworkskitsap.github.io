@@ -1,10 +1,9 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://aceworks.github.io"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "Ace Works"
 theme: "./.."
 relativeURLs: true
 
-googleanalytics: UA-167646412-8
 disqusShortname:
 Paginate: 3
 markup:
@@ -16,13 +15,13 @@ taxonomies:
   tag: "tags"
   category: "categories"
 
-enableEmoji: true
+enableEmoji: false
 params:
   version: 3
   customCSS: false
 
   favicon: "/images/fav.png"
-  description: "A high performance hugo theme for personal portfolio and blog."
+  description: "High quality handyman services"
 
   # Navbar Menus
   customMenus:
@@ -32,14 +31,9 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "Example name"
+  name: "Ace Works"
   namecolor: ffc107
-  profession: "Profession"
-  github: "https://github.com"
-  gitlab: "https://gitlab.com"
-  linkedin: "https://linkedin.com"
-  twitter: "https://twitter.com/"
-  instagram: "https://instagram.com/"
+  profession: "Handyman"
   facebook: "https://facebook.com"
 
   # About
@@ -47,45 +41,20 @@ params:
   descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
-    - name: CSS
-      percentage: 90
-    - name: Django
-      percentage: 85
-    - name: Hugo
-      percentage: 80
-    - name: React JS
-      percentage: 70
+    - name: Plumbing
+      percentage: 100
+    - name: Water Heater Installation & Repair
+      percentage: 100
+    - name: Carpentry
+      percentage: 100
+    - name: Plaster & Drywall
+      percentage: 100
 
   # Experience
-  disable_experience: false
-  experience:
-    - company: "Google"
-      # id: "google-developer"   // use this, when you want to change the id(used for navigation)
-      role: "Software developer"
-      startdate: Feb 2021
-      enddate: present
-      featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Facebook"
-      # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Mar 2020
-      enddate: Dec 2020
-      featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Amazon"
-      # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Feb 2019
-      enddate: Jan 2020
-      featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+  disable_experience: true 
 
   # Education
-  disable_education: false
+  disable_education: true
   education:
     - degree: "B.tech"
       branch: "Information Technology"
@@ -137,8 +106,8 @@ params:
 
   # Footer
   socialiconfooter: true
-  recentposts: true
+  recentposts: false
 
   # Blog
   showdescription: false
-  tweet: true
+  tweet: false
