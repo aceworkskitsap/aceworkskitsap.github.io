@@ -38,16 +38,14 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l1_person: "As plumbing and remodeling specialists, we are dedicated to providing you with a reliable and professional service to meet all your needs."
+  descripe_l2_person: "Business Hours<br>
+Mon - Sat<br>
+    8:00 am - 5:00 pm<br> 
+Sunday<br>
+    Appointment Only<br>"
   skills:
-    - name: Plumbing
-      percentage: 100
-    - name: Water Heater Installation & Repair
-      percentage: 100
-    - name: Carpentry
-      percentage: 100
-    - name: Plaster & Drywall
+    - name: Plumbing, Water Heater Installation & Repair, Carpenty, Plaster & Drywall
       percentage: 100
 
   # Experience
@@ -82,7 +80,7 @@ params:
       description: "Description of project"
 
   # Achievements
-  disable_achievements: false
+  disable_achievements: true
   achievements:
     - title: Competition winner
       description: We are developed a product which can help others.
@@ -101,8 +99,8 @@ params:
 
   # Contact
   disable_contact: false
-  contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
-  email: "example@mail.com"
+  contact_content: Email or call today to get a quote!<br>360-932-2117
+  email: "plumbingman008@gmail.com"
 
   # Footer
   socialiconfooter: true
