@@ -45,8 +45,10 @@ Mon - Sat<br>
 Sunday<br>
     Appointment Only<br>"
   skills:
-    - name: Plumbing,<br> Water Heater Installation & Repair,<br> Carpenty,<br> Plaster & Drywall
-      percentage: 100
+    - name: Plumbing,
+    - name: Water Heater Installation & Repair,
+    - name: Carpenty,
+    - name: Plaster & Drywall
 
   # Experience
   disable_experience: true 
